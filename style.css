@@ -1,0 +1,20 @@
+@font-face {
+	font-family: Danil;
+	src: url(minecraft.ttf);
+}
+@font-face {
+	font-family: asd;
+	src: url(minecraft.ttf);
+}
+.bg-danger {
+	background: red;
+}
+.w-500 {
+	width: 1200px;
+}
+.h-200 {
+	height: 200px;
+}
+.text-minecraft {
+	font-family: Danil;
+}
